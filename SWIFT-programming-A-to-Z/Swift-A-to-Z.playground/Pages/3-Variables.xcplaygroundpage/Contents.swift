@@ -1,7 +1,13 @@
-//: [Previous](@previous)
-
 import Foundation
 
-var greeting = "Hello, playground"
+//Constant
+//U can't change values of constant
+let firstConstant: Bool = true
 
-//: [Next](@next)
+//Variables
+//U can change values of variables
+var firstVariable: Bool = false
+firstVariable = true
+
+
+

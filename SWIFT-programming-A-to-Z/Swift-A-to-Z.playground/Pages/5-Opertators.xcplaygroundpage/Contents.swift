@@ -1,7 +1,34 @@
-//: [Previous](@previous)
-
 import Foundation
 
-var greeting = "Hello, playground"
+var count: Double = 10
 
-//: [Next](@next)
+// +
+count = count + 5
+//count += 5
+print(count)
+
+// -
+count = count - 2
+//count -= 2
+print(count)
+
+// *
+count = count * 2
+//count *= 2
+print(count)
+
+// /
+count = count / 5
+//count /= 5
+print(count)
+
+/**
+ && = AND
+ || = OR
+ <
+ <=
+ ==
+ >
+ =>
+ 
+ */
